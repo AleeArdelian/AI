@@ -1,0 +1,7 @@
+Texture membership for: 0.6[['very soft', 0], ['soft', 0.5000000000000001], ['normal', 0.75], ['resistant', 0]]
+Capacity membership for: 3.5[['small', 0], ['medium', 0.3333333333333333], ['high', 0.5]]
+Rules: [['delicate', 'easy', 'normal'], ['easy', 'normal', 'normal'], ['easy', 'normal', 'intense'], ['easy', 'normal', 'intense']]
+Inference: {'delicate': [0], 'easy': [0, 0, 0, 0], 'normal': [0, 0.3333333333333333, 0.5, 0.3333333333333333, 0], 'intense': [0.5, 0]}
+Agregate: [0, 0, 0.5, 0.5]
+Deffuzify value: 0.75
+Recommended wash cycle: Max value: 0.5Cycle power: normal

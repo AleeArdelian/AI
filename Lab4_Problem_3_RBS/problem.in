@@ -1,0 +1,16 @@
+texture,capacity,cycle type
+very soft,-5000,0.2,0.4
+soft,0.2,0.4,0.8
+normal,0.3,0.7,0.9
+resistant,0.7,0.9,5000
+small,-5000,1,2
+medium,1,2.5,4
+high,3,4,5000
+delicate,-5000,0.2,0.4
+easy,0.2,0.5,0.8
+normal,0.3,0.6,0.9
+intense,0.7,0.9,5000
+delicate,easy,normal
+easy,normal,normal
+easy,normal,intense
+easy,normal,intense
